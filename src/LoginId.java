@@ -56,17 +56,17 @@ public class LoginId extends javax.swing.JFrame {
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 150, 105, 34));
         jPanel1.add(jPasswordField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(303, 149, 251, 30));
 
-        jButton1.setBackground(new java.awt.Color(153, 153, 255));
+        jButton1.setBackground(new java.awt.Color(102, 153, 255));
         jButton1.setFont(new java.awt.Font("High Tower Text", 1, 24)); // NOI18N
         jButton1.setForeground(new java.awt.Color(255, 255, 255));
         jButton1.setText("Submit");
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 240, 110, -1));
 
-        jButton2.setBackground(new java.awt.Color(153, 153, 255));
+        jButton2.setBackground(new java.awt.Color(102, 153, 255));
         jButton2.setFont(new java.awt.Font("High Tower Text", 1, 24)); // NOI18N
         jButton2.setForeground(new java.awt.Color(255, 255, 255));
-        jButton2.setText("Reset");
-        jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 240, 110, -1));
+        jButton2.setText("Go Back");
+        jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 240, 130, -1));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
